@@ -1,8 +1,8 @@
-👋 Hi, I’m Umar Khan!
+👋 Hi, I’m Umar!
 
 👀 I’m interested in different programming languages.
 
-🌱 I’m currently learning Python.
+🌱 I’m currently learning programming languages.
 
 💞️ I’m looking to collaborate on GitHub.
 
